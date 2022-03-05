@@ -1,3 +1,3 @@
-# forkify-project
+# forkify Project
 
-forkify-project from course. ITS NOT MY OWN PROJECT! 
+Recipe application with custom recipe uploads.
